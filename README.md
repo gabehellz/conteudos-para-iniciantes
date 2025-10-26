@@ -25,7 +25,7 @@ Assuntos, competências e habilidades que se destacam por serem muito
 | Como Estudar   | Aprenda técnicas e abordagens para melhorar seus estudos.                                          |                                               |
 | Como Perguntar | Aprenda como perguntar e pedir ajuda de maneira clara e opinativa.                                 | [clique aqui](importantes/como_perguntar.md) |
 | Como Ajudar    | Aprenda como tirar dúvidas, ajudar a perguntarem de maneira correta e chegarem na solução correta. |                                               |
-| Como Praticar  | Aprenda como organizar e separar seus projetos práticos para evoluir suas habilidades.             | [clique aqui](importantes/como_praticar.pinto)  |
+| Como Praticar  | Aprenda como organizar e separar seus projetos práticos para evoluir suas habilidades.             | [clique aqui](importantes/como_praticar.md)  |
 
 # Desenvolvimento
 
